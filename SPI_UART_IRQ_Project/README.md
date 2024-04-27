@@ -1,5 +1,5 @@
 # SPI && UART && Interrupt Mechanism
-![image](https://github.com/Mo-Alsehli/BluePill_Projects/assets/98949843/5af90f16-b9ed-4b1b-a998-fdf081e7e382)
+<div align="center"><img src="https://github.com/Mo-Alsehli/BluePill_Projects/assets/98949843/5af90f16-b9ed-4b1b-a998-fdf081e7e382"/></div>
 
 **This Project Aims to use SPI to communicate between Master and Slave MCUs**
 
